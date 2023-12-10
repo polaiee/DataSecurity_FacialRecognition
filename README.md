@@ -58,6 +58,9 @@ Grid Y: the number of cells in the vertical direction. The more cells, the finer
 
 ## Process
 ![img4](https://github.com/polaiee/DataSecurity_FacialRecognition/blob/main/DataSecurityFaceRecog_images/image4.png)
+
+### Creation of Data Sets
+![img4](https://github.com/polaiee/DataSecurity_FacialRecognition/blob/main/DataSecurityFaceRecog_images/image6.png)
 ## Implementation
 Using the captured images in the initial dataset creation the model  is trained. After the training a YML file is created. A YML file is a text document that contains data formatted using YAML (YAML Ain't Markup Language), a human-readable data format used for data serialization. It is used for reading and writing data independent of a specific programming language. Because YAML syntax is language-agnostic, YML files can be incorporated into programs written in most popular programming languages, including C/C++, Ruby, Python, Java, Perl, C#, PHP, and others.
 
